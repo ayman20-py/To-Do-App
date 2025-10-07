@@ -3,7 +3,7 @@ public class Todos {
    private String content;
    private String date;
    
-   // Constructors
+   // Constructor
    public Todos(String newID, String newContent, String newDate) {
         this.id = newID;
         this.content = newContent;
