@@ -1,0 +1,13 @@
+{ 
+    "T0001": {
+        "content": "Hello This is the content of my to-do list",
+        "date": "2025-10-08",
+        "deadline": "NA"
+    },
+
+    "T0002": {
+        "content": "Hello this is the 2nd todo of this app",
+        "date": "2025-10-08",
+        "deadline": "2025-11-08"
+    }    
+}
