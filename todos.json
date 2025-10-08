@@ -1,13 +1,17 @@
-{ 
-    "T0001": {
-        "content": "Hello This is the content of my to-do list",
-        "date": "2025-10-08",
-        "deadline": "NA"
+[
+   {
+       "id": "T0001",
+       "title": "Introduction",
+       "content": "Hello This is the content of my to-do list",
+       "date": "2025-10-08",
+       "deadline": "NA"
     },
 
-    "T0002": {
+    {
+        "id": "T0002",
+        "title": "2nd intro",
         "content": "Hello this is the 2nd todo of this app",
         "date": "2025-10-08",
         "deadline": "2025-11-08"
-    }    
-}
+    }
+]
